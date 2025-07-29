@@ -1,6 +1,6 @@
-# 🛒 Smart Shopping Cart - Powered by YOLOv8 Nano
+# 🛒 CartVision Nano
 
-Welcome to the future of retail! The **Smart Shopping Cart** leverages the blazing-fast and lightweight **YOLOv8 Nano** model to deliver a seamless, automated, and intelligent shopping experience.
+Welcome to the future of retail! CartVision Nano leverages the blazing-fast and lightweight **YOLOv8 Nano** model to deliver a seamless, automated, and intelligent shopping experience.
 
 ---
 
@@ -51,7 +51,6 @@ _You might need additional dependencies depending on your hardware and use case.
    ```bash
    pip install -r requirements.txt
    ```
-   _If `requirements.txt` is missing, install Jupyter, PyTorch, OpenCV, and Ultralytics YOLO manually._
 
 ### Usage
 
@@ -72,3 +71,4 @@ Fork the repo, make your changes, and open a pull request—we'd love to see you
 
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) for their awesome detection framework.
 - The open-source computer vision community for making AI accessible to all.
+
